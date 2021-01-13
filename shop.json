@@ -1,0 +1,14 @@
+{
+  "shopWork": {
+    "warehousProducts": {
+      "meat": 51,
+      "vegetables": 37
+    },
+    "shopRoomProducts": {
+      "meat": 15,
+      "vegetables": 23
+    },
+    "day": 14,
+    "workDays": 14
+  }
+}
